@@ -1,0 +1,39 @@
+
+y
+java:S4684X"@Replace this persistent entity with a simple POJO or DTO object.(°Õ‹â8šùÕ ı/HùRCRITICALZVULNERABILITY
+a
+java:S1172‚"(Remove this unused method parameter "e".(‹·Ïµıÿÿÿÿ8Ñ“‡û/HğRMAJORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8šùÕ ı/HıRMINORZ
+CODE_SMELL
+g	java:S125_"<This block of commented-out lines of code should be removed.(Ú°à¬HŞRMAJORZ
+CODE_SMELL
+F
+java:S3751q"Make this method "public".(ã»´HØRMAJORZ
+CODE_SMELL
+}
+java:S1192…"FDefine a constant instead of duplicating this literal "00000" 4 times.(ÖŸ‹é8œ €‰û/HòRCRITICALZ
+CODE_SMELL
+g	java:S125/"<This block of commented-out lines of code should be removed.(Ú°à¬HÚRMAJORZ
+CODE_SMELL
+g	java:S125k"<This block of commented-out lines of code should be removed.(Ú°à¬HéRMAJORZ
+CODE_SMELL
+K
+java:S3751w"Make this method "public".(¬‘ùÿÿÿÿHïRMAJORZ
+CODE_SMELL
+y
+java:S4684}"@Replace this persistent entity with a simple POJO or DTO object.(¡ç²¿8šùÕ ı/HúRCRITICALZVULNERABILITY
+[
+java:S1172‰"(Remove this unused method parameter "e".(Üº½b8½¤‰û/H÷RMAJORZ
+CODE_SMELL
+o
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8šùÕ ı/HÿRMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8šùÕ ı/HûRMINORZ
+CODE_SMELL
+i	java:S106A"9Replace this use of System.out or System.err by a logger.(¥á²ŒùÿÿÿÿHÙRMAJORZ
+CODE_SMELL
+”	java:S115n"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ù‘­øÿÿÿÿ8Ñ“‡û/HİRCRITICALZ
+CODE_SMELL

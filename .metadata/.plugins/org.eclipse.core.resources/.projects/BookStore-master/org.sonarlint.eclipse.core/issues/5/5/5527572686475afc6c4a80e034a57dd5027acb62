@@ -1,0 +1,23 @@
+
+‹
+java:S1488l"_Immediately return this expression instead of assigning it to the temporary variable "payment".(æ‰™ëHšRMINORZ
+CODE_SMELL
+w
+java:S4684K"@Replace this persistent entity with a simple POJO or DTO object.(±ïÏ¹ûÿÿÿÿHRCRITICALZVULNERABILITY
+r
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(ŒñŠÂHRCRITICALZVULNERABILITY
+l	java:S125C"<This block of commented-out lines of code should be removed.(˜î‡ŞşÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(ÍÈåH¥RMAJORZ
+CODE_SMELL
+d	java:S106\"9Replace this use of System.out or System.err by a logger.(‹°ÄÃH¦RMAJORZ
+CODE_SMELL
+w
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(Õ›”æÿÿÿÿÿH§RCRITICALZVULNERABILITY
+g	java:S125v"<This block of commented-out lines of code should be removed.(Ú°à¬H¨RMAJORZ
+CODE_SMELL
+d	java:S106Z"9Replace this use of System.out or System.err by a logger.(ª™ƒ•H«RMAJORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH¬RMINORZ
+CODE_SMELL

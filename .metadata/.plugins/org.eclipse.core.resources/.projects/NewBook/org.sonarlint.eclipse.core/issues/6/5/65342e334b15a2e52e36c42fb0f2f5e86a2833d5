@@ -1,0 +1,29 @@
+
+…	java:S116"URename this field "invoice_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜®„¦ùÿÿÿÿHêRMINORZ
+CODE_SMELL
+€	java:S116"URename this field "book_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğêÄ´HåRMINORZ
+CODE_SMELL
+	java:S116"TRename this field "address_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éğ­ÖHèRMINORZ
+CODE_SMELL
+†	java:S116"VRename this field "customer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®‹ÌÿÿÿÿÿHğRMINORZ
+CODE_SMELL
+}	java:S116"RRename this field "book_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ŠÍâHçRMINORZ
+CODE_SMELL
+~	java:S116"SRename this field "book_qty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É—ĞÎHíRMINORZ
+CODE_SMELL
+…	java:S116"URename this field "book_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ê“äûÿÿÿÿHîRMINORZ
+CODE_SMELL
+…	java:S116"URename this field "payment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓõÕÿÿÿÿÿHéRMINORZ
+CODE_SMELL
+~	java:S116"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«àÿ­HïRMINORZ
+CODE_SMELL
+ˆ	java:S116"XRename this field "customer_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ë¿™ûÿÿÿÿHæRMINORZ
+CODE_SMELL
+	java:S116"TRename this field "user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÚªÇHìRMINORZ
+CODE_SMELL
+ˆ	java:S116"XRename this field "mobile_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—õÕºüÿÿÿÿHëRMINORZ
+CODE_SMELL
+‚	java:S116"WRename this field "ordered_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„„­ÒHñRMINORZ
+CODE_SMELL
+Š	java:S116"SRename this field "pic_byte" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÖÉÉúÿÿÿÿ8Åâœßû/HşRMINORZ
+CODE_SMELL

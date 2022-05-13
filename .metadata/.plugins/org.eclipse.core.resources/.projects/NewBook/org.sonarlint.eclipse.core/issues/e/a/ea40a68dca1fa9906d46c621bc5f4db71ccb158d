@@ -1,0 +1,23 @@
+
+l	java:S125"<This block of commented-out lines of code should be removed.(ïûö˚¸ˇˇˇˇHπ0RMAJORZ
+CODE_SMELL
+Ö
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯˝ÿÿHΩ0RMINORZ
+CODE_SMELL
+†
+java:S11927"qDefine a constant instead of duplicating this literal "message:no data is present with this categoryId " 3 times.(æ≈‚∑Hø0RCRITICALZ
+CODE_SMELL
+Å	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥—ﬂÕ¸ˇˇˇˇH√0RMINORZ
+CODE_SMELL
+|	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éêÌ±Hƒ0RMINORZ
+CODE_SMELL
+|	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìæã¶H≈0RMINORZ
+CODE_SMELL
+|	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ãîúH∆0RMINORZ
+CODE_SMELL
+\
+java:S36555"7Call "Optional#isPresent()" before accessing the value.(ò–ñôH«0RMAJORZBUG
+\
+java:S3655]"7Call "Optional#isPresent()" before accessing the value.(ò–ñôH»0RMAJORZBUG
+\
+java:S3655I"7Call "Optional#isPresent()" before accessing the value.(ò–ñôH…0RMAJORZBUG

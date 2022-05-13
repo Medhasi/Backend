@@ -1,0 +1,7 @@
+
+€
+java:S1128"ORemove this unused import 'org.springframework.data.repository.CrudRepository'.(Îê¶¬üÿÿÿÿHÑRMINORZ
+CODE_SMELL
+w
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿHÓRMINORZ
+CODE_SMELL

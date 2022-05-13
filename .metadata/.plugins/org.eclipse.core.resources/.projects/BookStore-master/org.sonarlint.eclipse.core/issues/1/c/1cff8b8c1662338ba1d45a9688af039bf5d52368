@@ -1,0 +1,34 @@
+
+j	java:S106º"9Replace this use of System.out or System.err by a logger.(­ˆª‹ýÿÿÿÿHÛ/RMAJORZ
+CODE_SMELL
+f	java:S125o"<This block of commented-out lines of code should be removed.(’è‘8HÜ/RMAJORZ
+CODE_SMELL
+g	java:S125›"<This block of commented-out lines of code should be removed.(îè®QHø/RMAJORZ
+CODE_SMELL
+l
+java:S1128"@Remove this unused import 'org.springframework.http.HttpEntity'.(ÂéŽÓHù/RMINORZ
+CODE_SMELL
+u
+java:S1128"DRemove this unused import 'com.verinite.bookstore.entity.BookStock'.(‹å¹§þÿÿÿÿHû/RMINORZ
+CODE_SMELL
+v
+java:S3973Z"GUse indentation to denote the code conditionally executed by this "if".(ÐçõâHý/RCRITICALZ
+CODE_SMELL
+a
+java:S3655R"7Call "Optional#isPresent()" before accessing the value.(í¾ÉìýÿÿÿÿHÿ/RMAJORZBUG
+i
+java:S2589³"7Remove this expression which always evaluates to "true"(¦¼óúÿÿÿÿH€0RMAJORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH„0RMINORZ
+CODE_SMELL
+g	java:S125%"<This block of commented-out lines of code should be removed.(™µôÇH†0RMAJORZ
+CODE_SMELL
+h	java:S125˜"<This block of commented-out lines of code should be removed.(£¹ýžH–0RMAJORZ
+CODE_SMELL
+¸
+java:S2681\"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(²¬½ºøÿÿÿÿH—0RMAJORZ
+CODE_SMELL
+q
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿH˜0RMINORZ
+CODE_SMELL

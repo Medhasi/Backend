@@ -1,0 +1,8 @@
+
+Ç	java:S116!"WRename this field "order_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(√˘ØÕHüRMINORZ
+CODE_SMELL
+Ä	java:S116#"URename this field "book_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íƒ¥H†RMINORZ
+CODE_SMELL
+a
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(∏®õçH°RMINORZ
+CODE_SMELL

@@ -1,0 +1,50 @@
+
+‡
+java:S1192m"LDefine a constant instead of duplicating this literal "    <tr>\r
+" 4 times.(‰”Ÿûÿÿÿÿ8úÅ®ı/H‹+RCRITICALZ
+CODE_SMELL
+
+java:S1192x"SDefine a constant instead of duplicating this literal "          </tr>\r
+" 6 times.(Û†»şÿÿÿÿ8úÅ®ı/H+RCRITICALZ
+CODE_SMELL
+p
+java:S1172"8Remove these unused method parameters "toEmail", "body".(À´ÆÊüÿÿÿÿ8°»‰®ı/H'RMAJORZ
+CODE_SMELL
+o
+java:S1854 "7Remove this useless assignment to local variable "msg".(„ß¿ƒüÿÿÿÿ8´´­ı/Hş'RMAJORZ
+CODE_SMELL
+`
+java:S1481 "(Remove this unused "msg" local variable.(„ß¿ƒüÿÿÿÿ8´´­ı/Hœ'RMINORZ
+CODE_SMELL
+}
+java:S11928"HDefine a constant instead of duplicating this literal "  }\r
+" 10 times.(ÑŠÎ~8úÅ®ı/H›+RCRITICALZ
+CODE_SMELL
+Š
+java:S1192o"ODefine a constant instead of duplicating this literal "      </td>\r
+" 4 times.(¤ã˜ûÿÿÿÿ8úÅ®ı/H¦+RCRITICALZ
+CODE_SMELL
+å
+java:S1192s"¯Define a constant instead of duplicating this literal "        <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"max-width: 600px;\">\r
+" 3 times.(±—µo8úÅ®ı/H«+RCRITICALZ
+CODE_SMELL
+
+java:S1192y"TDefine a constant instead of duplicating this literal "        </table>\r
+" 3 times.(Ïœˆ‰ùÿÿÿÿ8úÅ®ı/H¯+RCRITICALZ
+CODE_SMELL
+
+java:S1192t"RDefine a constant instead of duplicating this literal "          <tr>\r
+" 6 times.(‰”Ÿûÿÿÿÿ8úÅ®ı/H³+RCRITICALZ
+CODE_SMELL
+
+java:S1192w"UDefine a constant instead of duplicating this literal "            </td>\r
+" 6 times.(¤ã˜ûÿÿÿÿ8úÅ®ı/Hº+RCRITICALZ
+CODE_SMELL
+ˆ
+java:S1192p"MDefine a constant instead of duplicating this literal "    </tr>\r
+" 4 times.(Û†»şÿÿÿÿ8úÅ®ı/HÁ+RCRITICALZ
+CODE_SMELL
+®
+java:S1192n"sDefine a constant instead of duplicating this literal "      <td align=\"center\" bgcolor=\"#e9ecef\">\r
+" 3 times.(şôøüÿÿÿÿ8şÈ¨Êı/HÆ+RCRITICALZ
+CODE_SMELL

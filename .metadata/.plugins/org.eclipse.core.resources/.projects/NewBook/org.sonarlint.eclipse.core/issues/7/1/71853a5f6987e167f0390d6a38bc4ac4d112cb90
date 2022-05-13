@@ -1,0 +1,9 @@
+
+†	java:S116"VRename this field "customer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®‹ÌÿÿÿÿÿHœRMINORZ
+CODE_SMELL
+ˆ	java:S116"XRename this field "mobile_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—õÕºüÿÿÿÿH›RMINORZ
+CODE_SMELL
+ˆ	java:S116"XRename this field "customer_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ë¿™ûÿÿÿÿH™RMINORZ
+CODE_SMELL
+	java:S116"TRename this field "address_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éð­ÖHšRMINORZ
+CODE_SMELL

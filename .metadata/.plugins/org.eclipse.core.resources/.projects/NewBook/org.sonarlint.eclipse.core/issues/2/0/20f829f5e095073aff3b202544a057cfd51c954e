@@ -1,0 +1,88 @@
+
+†
+java:S3008-"URename this field "payment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÑÑÂÿÿÿÿÿH–/RMINORZ
+CODE_SMELL
+m	java:S125”"<This block of commented-out lines of code should be removed.(Š©ÿÇþÿÿÿÿH—/RMAJORZ
+CODE_SMELL
+y
+java:S3252X"EUse static access with "com.itextpdf.text.Element" for "ALIGN_RIGHT".(ÒàÊ þÿÿÿÿH˜/RCRITICALZ
+CODE_SMELL
+j	java:S106ø"9Replace this use of System.out or System.err by a logger.(ÜÞ¤þþÿÿÿÿHš/RMAJORZ
+CODE_SMELL
+y
+java:S3252["EUse static access with "com.itextpdf.text.Element" for "ALIGN_RIGHT".(ÒàÊ þÿÿÿÿH›/RCRITICALZ
+CODE_SMELL
+y
+java:S3252W"EUse static access with "com.itextpdf.text.Element" for "ALIGN_RIGHT".(ÒàÊ þÿÿÿÿH/RCRITICALZ
+CODE_SMELL
+|
+java:S1128!"PRemove this unused import 'com.verinite.bookstore.entity.InvoiceDatabaseEntity'.(ˆÜá«HŸ/RMINORZ
+CODE_SMELL
+u
+java:S2095J"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ï¡ÀðH¡/RBLOCKERZBUG
+e
+java:S26969"6Make the enclosing method "static" or remove this set.(¶ÅÅH¢/RCRITICALZ
+CODE_SMELL
+j
+java:S2696D"6Make the enclosing method "static" or remove this set.(¬±Ï–úÿÿÿÿH£/RCRITICALZ
+CODE_SMELL
+t
+java:S3252Y"EUse static access with "com.itextpdf.text.Element" for "ALIGN_RIGHT".(÷ÛúËH¤/RCRITICALZ
+CODE_SMELL
+s
+java:S18547"BRemove this useless assignment to local variable "productDetails".(È°ÍùÿÿÿÿH¦/RMAJORZ
+CODE_SMELL
+Y
+java:S1659-"(Declare "payment_id" on a separate line.(ßÑÑÂÿÿÿÿÿH§/RMINORZ
+CODE_SMELL
+d
+java:S1128"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘H©/RMINORZ
+CODE_SMELL
+t
+java:S1128"CRemove this unused import 'com.verinite.bookstore.entity.Delivery'.(è¶žöøÿÿÿÿH«/RMINORZ
+CODE_SMELL
+Œ
+java:S4144»"_Update this method so that its implementation is not identical to "getBillRowCell" on line 306.(Ô¨óíH­/RMAJORZ
+CODE_SMELL
+n
+java:S1128""BRemove this unused import 'com.verinite.bookstore.entity.Payment'.(ò«ÏH¯/RMINORZ
+CODE_SMELL
+z
+java:S3252š"EUse static access with "com.itextpdf.text.Rectangle" for "NO_BORDER".(ýŠåˆúÿÿÿÿH±/RCRITICALZ
+CODE_SMELL
+e
+java:S2696A"6Make the enclosing method "static" or remove this set.(äìƒ¹H³/RCRITICALZ
+CODE_SMELL
+±
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰£×ÖH´/RCRITICALZ
+CODE_SMELL
+‡
+java:S3008,"VRename this field "PdfFileName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â˜¨êÿÿÿÿÿH¶/RMINORZ
+CODE_SMELL
+y
+java:S3252Z"EUse static access with "com.itextpdf.text.Element" for "ALIGN_RIGHT".(ÒàÊ þÿÿÿÿH·/RCRITICALZ
+CODE_SMELL
+v
+java:S1128'"JRemove this unused import 'com.verinite.bookstore.service.InvoiceService'.(¼®¥ŸH¹/RMINORZ
+CODE_SMELL
+g
+java:S1141û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿH»/RMAJORZ
+CODE_SMELL
+e
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶H½/RMINORZ
+CODE_SMELL
+`
+java:S37407"/Provide the parametrized type for this generic.(È°ÍùÿÿÿÿH¿/RMAJORZ
+CODE_SMELL
+u
+java:S16594"DDeclare "country" and all following declarations on a separate line.(ãƒôüÿÿÿÿHÀ/RMINORZ
+CODE_SMELL
+d
+java:S14817"3Remove this unused "productDetails" local variable.(È°ÍùÿÿÿÿHÈ/RMINORZ
+CODE_SMELL
+„
+java:S1128$"XRemove this unused import 'com.verinite.bookstore.repository.InvoiceDatabaseRepository'.(À«ùµHÊ/RMINORZ
+CODE_SMELL
+y
+java:S1128&"MRemove this unused import 'com.verinite.bookstore.service.InvoicePDFService'.(áÃÞ€HÌ/RMINORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+
+g	java:S125Z"<This block of commented-out lines of code should be removed.(Ú°à¬Hš0RMAJORZ
+CODE_SMELL
+r
+java:S4684S"@Replace this persistent entity with a simple POJO or DTO object.(°Õ‹âH 0RCRITICALZVULNERABILITY
+^
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿH¡0RMINORZ
+CODE_SMELL
+F
+java:S3751k"Make this method "public".(ã»´H£0RMAJORZ
+CODE_SMELL
+R
+java:S3751}"Make this method "public".(ùÑ·»ûÿÿÿÿ8è›Š°û/H¤0RMAJORZ
+CODE_SMELL
+r
+java:S4684u"@Replace this persistent entity with a simple POJO or DTO object.(¡ç²¿H¥0RCRITICALZVULNERABILITY
+z
+java:S4684‚"@Replace this persistent entity with a simple POJO or DTO object.(ï—óç8á¹Ö°û/H¦0RCRITICALZVULNERABILITY
+g	java:S125f"<This block of commented-out lines of code should be removed.(Ú°à¬H§0RMAJORZ
+CODE_SMELL
+K
+java:S3751p"Make this method "public".(¬‘ùÿÿÿÿHª0RMAJORZ
+CODE_SMELL
+g	java:S125*"<This block of commented-out lines of code should be removed.(Ú°à¬H«0RMAJORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH¶0RMINORZ
+CODE_SMELL
+i	java:S106<"9Replace this use of System.out or System.err by a logger.(¥á²ŒùÿÿÿÿH¸0RMAJORZ
+CODE_SMELL

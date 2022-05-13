@@ -1,0 +1,40 @@
+
+a
+java:S3655+"7Call "Optional#isPresent()" before accessing the value.(Î´ë”ùÿÿÿÿH½(RMAJORZBUG
+q	java:S106å"9Replace this use of System.out or System.err by a logger.(‡è²¤øÿÿÿÿ8‚¬ý­ý/H¯(RMAJORZ
+CODE_SMELL
+\
+java:S3655Û"7Call "Optional#isPresent()" before accessing the value.(˜ðƒH°(RMAJORZBUG
+l	java:S125"<This block of commented-out lines of code should be removed.(Þ“Õ»ùÿÿÿÿH²(RMAJORZ
+CODE_SMELL
+T
+java:S1125²"'Remove the unnecessary boolean literal.(¾Â‚ÛHÂ(RMINORZ
+CODE_SMELL
+a
+java:S3655\"7Call "Optional#isPresent()" before accessing the value.(ù‹ÅøÿÿÿÿH¾(RMAJORZBUG
+e	java:S106é"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒH·(RMAJORZ
+CODE_SMELL
+q	java:S106ë"9Replace this use of System.out or System.err by a logger.(‡è²¤øÿÿÿÿ8‚¬ý­ý/H¸(RMAJORZ
+CODE_SMELL
+b
+java:S3655ê"7Call "Optional#isPresent()" before accessing the value.(ßá ûÿÿÿÿH»(RMAJORZBUG
+u
+java:S1854q"DRemove this useless assignment to local variable "registrationlist".(†¼‹çûÿÿÿÿH¼(RMAJORZ
+CODE_SMELL
+e	java:S106ã"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒH®(RMAJORZ
+CODE_SMELL
+i
+java:S3655ä"7Call "Optional#isPresent()" before accessing the value.(ßá ûÿÿÿÿ8‚¬ý­ý/Hº(RMAJORZBUG
+—
+java:S4144è"^Update this method so that its implementation is not identical to "getByUsername" on line 226.(—ƒ›øÿÿÿÿ8‚¬ý­ý/HÀ(RMAJORZ
+CODE_SMELL
+h	java:S125‰"<This block of commented-out lines of code should be removed.(ïû²ØHŽ(RMAJORZ
+CODE_SMELL
+t	java:S125Æ"<This block of commented-out lines of code should be removed.(“Ò‚Åøÿÿÿÿ8›ášËý/H…,RMAJORZ
+CODE_SMELL
+Q
+java:S2201+"'The return value of "get" must be used.(Î´ë”ùÿÿÿÿH¿(RMAJORZBUG
+h	java:S125‚"<This block of commented-out lines of code should be removed.(Â„âðH±(RMAJORZ
+CODE_SMELL
+b
+java:S3655±"7Call "Optional#isPresent()" before accessing the value.(¯ª™’ÿÿÿÿÿH¹(RMAJORZBUG

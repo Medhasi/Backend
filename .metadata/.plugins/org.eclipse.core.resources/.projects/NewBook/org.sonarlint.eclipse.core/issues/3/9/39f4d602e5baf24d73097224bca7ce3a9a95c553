@@ -1,0 +1,13 @@
+
+l	java:S125'"<This block of commented-out lines of code should be removed.(‹ğõşúÿÿÿÿHïRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(­ÅÎÉüÿÿÿÿ8šª«¬ı/HòRMAJORZ
+CODE_SMELL
+s	java:S125#"<This block of commented-out lines of code should be removed.(ş„¦ úÿÿÿÿ8šª«¬ı/HóRMAJORZ
+CODE_SMELL
+s
+java:S1128"@Remove this unused import 'org.apache.logging.log4j.LogManager'.(Ë”Ëé8šª«¬ı/HöRMINORZ
+CODE_SMELL
+t
+java:S1128"<Remove this unused import 'org.apache.logging.log4j.Logger'.(»¯øÿÿÿÿ8šª«¬ı/HøRMINORZ
+CODE_SMELL
